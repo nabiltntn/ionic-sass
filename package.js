@@ -42,6 +42,8 @@ Package.onUse(function(api) {
     'stylesheets/_transitions.scss',
     'stylesheets/_type.scss',
     'stylesheets/_util.scss',
+    'stylesheets/_spinner.scss',
+    'stylesheets/_refresher.scss',
     'stylesheets/_variables.scss'
   ], 'server');
 
